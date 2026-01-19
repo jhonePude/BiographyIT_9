@@ -1,0 +1,42 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #a2a6b1;
+    align-content: center;
+}
+
+h1, h2, h3, h4 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+p {
+    margin: 10px 0;
+    text-align: center;
+}
+
+ul, ol {
+    margin: 10px 0 10px 20px;
+    align-self: center;
+    margin-left: 500px;
+}
+
+img {
+    border-radius: 50%;
+    border: solid;
+    display: block;
+    margin-left: 510px;
+}
+
+hr {
+    border: 1px solid rgb(0, 0, 0);
+    margin: 20px 0;
+}
+
+a {
+    color: rgb(0, 0, 255);
+    text-decoration: none;
+    margin-left: 475px;
+}
